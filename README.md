@@ -15,3 +15,5 @@ pom.xml: Maven configuration file with dependencies and plugins.
 src/main/java: Java source files for the web application.
 src/main/webapp: Web resources,including web.xml for configuration.
 Dockerfile: Instructions for building a Docker image.
+
+<Tomcat setup & project deployment.pdf file include in above files"its explain how Tomcat setup & project deployment for web application running>
